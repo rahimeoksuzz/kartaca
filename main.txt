@@ -1,0 +1,63 @@
+Son 1 saatteki API mal1d1r. Örn log: "GET,1000,16bekle kadar sürdüü yaz1lashboard ekran1nda grafik olar;
+
+Teamamland1klar1 bir d job, log dosyas1na anl1k olardiim14679220"
+
+Async birrafik canl1 olarak güncellenmercih ak gösterilmeli ve g al1p Kafka'ya belirlenen bir iz göak yaz1lan sat1rlar1ir.
+
+Bir consumer Kafka'ya gönrevinformatta göndermelidi yakalay1p, uygun görülen bir gerederilen log bilgisin1d1r (RDBMS veya NoSQL gibi).
+ksini veritaban1na yazmale öksman1n ve ara yüzün Docker ile Pytho
+
+
+Notlar;
+
+* Uygulanin nas1l çal1_t1r1laca1na daET, Pne olduu gibi proje1r hale getirilecei README oln) yanas1l derlenip çal1_l1d1r.
+
+* Yukar1da verilen sanOST, ir bilgiler yer almad1r. Docker-compose üzerinden p1lacarak yaz1lm1_ olmal1da README içerisine eklenmelidPUT va özel anahtar kodu l1_acak _ekilde servis edilmelak bitek bir komut ile çai ba1ml1l1klar da içerisinde r RESidir. Veritaban1 gibADME içerisinde servis endpoinT APIyer almal1d1r.
+
+
+* RE at1laca1, ara yüz adresinin 'da Gt'lerine nas1l isteküz, gne ula_mak için kullan1lan kode DELir.
+
+* Görev içeriile, moralinizi bozmay1n ve tamek 4  getiremediyseniz bitLab, Bitbucket gibi eri_ime aETE i ve proje GitHub, Gi bizimle mutlaka payla_1n.
+
+Kofarklamlad11n1z kadar1n1erilerek, balant1 adresi insasteklç1k bir repo'ya gönd1 endlay gelsin!com'a iletilmelidir. Kod deposerininkaynaklari@kartaca. sal
+anam1yorsa, indirilebilir kar_u üzerinden payla_1m için bir dosya/balant1 ileti1laya dosyalara ula_mam1zdeki tüm gereksinimleri yerinebileclmelidir.
+
+
+Görevleriçeriri bolmeli_ reqdir.
+uest
+Bu Abody ile kabul edebiörev pointotlar sunu1, islmal1tekled1r. POST ve PUT metine PI'ye-3 sn gele arasn her1nda  istek içi Tebrirahimine (PUT,DELETE gibi) g
+öre ayrettilidir.
+
+0stek tiplerecwBtQTPM4IcP8NqRqruyuj8F23n7Qa / GeVF_i75bGSpZZFarR4Hrmal1d1r.
+
+Örnek grafik ekran giniz 1 renklendirme yap1laFM-eEJbT_w6BeCkaiV191wafxKmxGo / PDiEP6axniO-5m-WoYnwcartaca.com/wp-content/uploads/bir dörüntüsü;
+
+https://kVkBbNPnYdNy8BOJWDMKGPnf9pD-A==HP / Z1mKrGSky0I7K-vEB4Xpyetisenler_usg_dashboard.png
+
+il il2021/03/cekirdekten_letirken senden istediimiz sae (te
+Kod deposunu bize i: gAAAAABgUQTku8HH8w2BbDjMk_9rrcihena özel anahtar koduaWsT6LpBSoIvz5_HlvHj4jg5opbtHXn Javn48aOwcCOgQYKlWbJPqPkler k ile log dosyas1na istein ne0_te amp}" gibi bir içeriisteklerinin ne kadar sürede tmleri
+Son 1 saatteki API mal1d1r. Örn log: "GET,1000,16bekle kadar sürdüü yaz1lashboard ekran1nda grafik olar;
+
+Teamamland1klar1 bir d job, log dosyas1na anl1k olardiim14679220"
+
+Async birrafik canl1 olarak güncellenmercih ak gösterilmeli ve g al1p Kafka'ya belirlenen bir iz göak yaz1lan sat1rlar1ir.
+
+Bir consumer Kafka'ya gönrevinformatta göndermelidi yakalay1p, uygun görülen bir gerederilen log bilgisin1d1r (RDBMS veya NoSQL gibi).
+ksini veritaban1na yazmale öksman1n ve ara yüzün Docker ile Pytho
+
+
+Notlar;
+
+* Uygulanin nas1l çal1_t1r1laca1na daET, Pne olduu gibi proje1r hale getirilecei README oln) yanas1l derlenip çal1_l1d1r.
+
+* Yukar1da verilen sanOST, ir bilgiler yer almad1r. Docker-compose üzerinden p1lacarak yaz1lm1_ olmal1da README içerisine eklenmelidPUT va özel anahtar kodu l1_acak _ekilde servis edilmelak bitek bir komut ile çai ba1ml1l1klar da içerisinde r RESidir. Veritaban1 gibADME içerisinde servis endpoinT APIyer almal1d1r.
+
+
+* RE at1laca1, ara yüz adresinin 'da Gt'lerine nas1l isteküz, gne ula_mak için kullan1lan kode DELir.
+
+* Görev içeriile, moralinizi bozmay1n ve tamek 4  getiremediyseniz bitLab, Bitbucket gibi eri_ime aETE i ve proje GitHub, Gi bizimle mutlaka payla_1n.
+
+Kofarklamlad11n1z kadar1n1erilerek, balant1 adresi insasteklç1k bir repo'ya gönd1 endlay gelsin!com'a iletilmelidir. Kod deposerininkaynaklari@kartaca. sal
+anam1yorsa, indirilebilir kar_u üzerinden payla_1m için bir dosya/balant1 ileti1laya dosyalara ula_mam1zdeki tüm gereksinimleri yerinebileclmelidir.
+
+
